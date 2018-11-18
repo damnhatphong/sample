@@ -1,2 +1,3 @@
 ECHO is on.
 Add: Changing some file here!
+PULL: get content form remote repository
